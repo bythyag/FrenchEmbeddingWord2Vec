@@ -64,6 +64,3 @@ The trained embeddings are saved in a text format:
 ```python
 model.wv.save_word2vec_format('frenchEmbedding.txt')
 ```
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/13462189/e1270fc6-43d2-46a0-8dc3-522e03d3bc82/paste.txt
